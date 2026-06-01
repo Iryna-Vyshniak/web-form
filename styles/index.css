@@ -425,6 +425,8 @@ select option[selected] {
   text-align: center;
   font-size: .9375rem;
   font-family: var(--font-roboto);
+  padding-block-start: 24px;
+  text-align: ccenter;
 }
 
 .disclaimer {
